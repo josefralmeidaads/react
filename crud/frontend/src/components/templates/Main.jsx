@@ -5,7 +5,7 @@ import React from 'react';
 export default function() {
     return(
         <React.Fragment>
-            < Header />
+            <Header />
                 <main className="content">
                     Main
                 </main>

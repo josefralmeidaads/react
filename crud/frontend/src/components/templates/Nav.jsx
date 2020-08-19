@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function() {
     return(
-        <aside className="menu-are">
+        <aside className="menu-area">
             Navegação
         </aside>
     )
